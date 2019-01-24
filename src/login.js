@@ -1,7 +1,5 @@
 import React from 'react'; 
 import Navbar from './navbar';
-import pic from './tanggal.png';
-import Batch from './batch';
 
 class Login extends React.Component {
   constructor(){
@@ -39,7 +37,6 @@ render() {
         <p>Lorem ipsum...</p>
       </div>
    </div>
-   <Batch/>
    </div>
   )
  }

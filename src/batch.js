@@ -5,7 +5,7 @@ import Grid from '@material-ui/core/Grid';
 import Paper from '@material-ui/core/Paper';
 import Typography from '@material-ui/core/Typography';
 import ButtonBase from '@material-ui/core/ButtonBase';
-import tgl from './tangggal.png';
+import tgl from './img/tangggal.png';
 
 const styles = theme => ({
   root: {
